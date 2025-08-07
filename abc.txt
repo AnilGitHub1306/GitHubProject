@@ -3,3 +3,4 @@ b
 c
 d
 e	Hi this is text file
+file 1
