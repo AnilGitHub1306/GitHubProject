@@ -5,3 +5,4 @@ d
 e	Hi this is text file
 file 1
 File 2
+File 3
