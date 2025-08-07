@@ -4,3 +4,4 @@ c
 d
 e	Hi this is text file
 file 1
+File 2
